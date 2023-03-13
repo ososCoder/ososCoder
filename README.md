@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='50'/>
 </p>
 
-<h2>Contact with me:</strong></font>
+<h2><strong>Contact with me:</strong></h2>
 
 <p align='center'>
 <a href='https://wa.link/rif9rh' target="_blank">
