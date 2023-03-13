@@ -1,5 +1,5 @@
 <h1 align='center'>Hi! I'm ososCoder!</h1>
-<h2 align='center'>Full Stack Web Developer</h2>
+<p align='center'><strong>Full Stack Web Developer</strong></p>
 
 <h3>I'm a junior Full Stack Web Developer, technology enthusiastic, focusing on backend and frontend web applications. Actually working on my UX/UI skills to become the version of myself as developer.</h3>
 
@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='50'/>
 </p>
 
-<font size='4'><strong>Currently working on:</strong></font>
+<h2><strong>Currently working on:</strong></h2>
 
 <p align='center'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='50'/>
@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='50'/>
 </p>
 
-<font size='4'><strong>Contact with me:</strong></font>
+<h2>Contact with me:</strong></font>
 
 <p align='center'>
 <a href='https://wa.link/rif9rh' target="_blank">
