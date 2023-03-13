@@ -3,7 +3,7 @@
 
 <h3>I'm a junior Full Stack Web Developer, technology enthusiastic, focusing on backend and frontend web applications. Actually working on my UX/UI skills to become the version of myself as developer.</h3>
 
-<font size='4'><strong>My Technologies:</strong></font>
+<h2><strong>My Technologies:</strong></h2>
 
 <p align='center'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='50'/>
