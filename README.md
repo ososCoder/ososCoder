@@ -25,13 +25,13 @@
 <font size='4'><strong>Contact with me:</strong></font>
 
 <p align='center'>
-<a href='https://wa.link/rif9rh' target='_blank'>
+<a href='https://wa.link/rif9rh' target="_blank">
 <img src='./img/whatsapp.svg' width='50'/>
 </a>
-<a href="mailto:oscar.ousinde@gmail.com">
+<a href="mailto:oscar.ousinde@gmail.com" target="_blank">
 <img src="./img/email.svg" width='50' />
 </a>
-<a href='https://www.linkedin.com/in/oscar-ousinde/' target='_blank'>
+<a href='https://www.linkedin.com/in/oscar-ousinde/' target="_blank">
 <img src='./img/linkedin.svg' width='50'/>
 </a>
 </p>
