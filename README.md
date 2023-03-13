@@ -1,6 +1,6 @@
 <h1 align='center'>Hi! I'm ososCoder!</h1>
 <h2 align='center'>Full Stack Web Developer</h2>
-<br>
+
 <h3>I'm a junior Full Stack Web Developer, technology enthusiastic, focusing on backend and frontend web applications. Actually working on my UX/UI skills to become the version of myself as developer.</h3>
 
 <font size='4'><strong>My Technologies:</strong></font>
