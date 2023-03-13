@@ -1,5 +1,5 @@
 <h1 align='center'>Hi! I'm ososCoder!</h1>
-<p align='center'><strong>Full Stack Web Developer</strong></p>
+<p align='center'><font size='4'><strong>Full Stack Web Developer</strong></font></p>
 
 <h3>I'm a junior Full Stack Web Developer, technology enthusiastic, focusing on backend and frontend web applications. Actually working on my UX/UI skills to become the version of myself as developer.</h3>
 
