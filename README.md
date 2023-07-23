@@ -17,13 +17,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width='50'/>
 </p>
 
-<h2><strong>Currently working on my skills:</strong></h2>
+<!-- <h2><strong>Currently working on my skills:</strong></h2>
 
 <p align='center'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='50'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width='50'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='50'/>
-</p>
+</p> -->
 
 <h2><strong>Contact with me:</strong></h2>
 
