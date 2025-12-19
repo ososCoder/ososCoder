@@ -1,7 +1,6 @@
 <h1 align='center'>Hi! I'm Oscar!</h1>
 <p align='center'><font size='4'><strong>Developer for fun</strong></font></p>
 
-<h3>I'm a Full Stack Web Developer. Well...let's say technology enthusiastic 😉</h3>
 
 <h2><strong>My Technologies:</strong></h2>
 
